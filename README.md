@@ -13,4 +13,8 @@
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Python](./algorithms/detect-capital.py)|Easy|String|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Python](/algorithms/reverse-words-in-a-string-iii.py)|Easy|String|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](./algorithms/array-partition-i.py)|Easy|Array|
+|654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Python](./algorithms/maximum-binary-tree.py)|Medium|Tree|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](./algorithms/self-dividing-numbers.py)|Easy|Math|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Python](./algorithms/rotate-string.py)|Easy||
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](./algorithms/unique-morse-code-words.py)|Easy||
+|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](./algorithms/max-increase-to-keep-city-skyline.py)|Medium||
